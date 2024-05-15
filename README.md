@@ -1,2 +1,7 @@
 # Report Appendix Navigation Instruction
-For this project two git repositories were created. When creating
+
+In this folder there are a three folders:
+
+-angle_msg
+-videos
+-RobotProject
